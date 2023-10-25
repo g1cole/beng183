@@ -3,7 +3,7 @@ RNA-Sequencing Alignment
 </h1>
 
 <h3 align="center">
-Author: Nicholas, Garrett, Shuhao
+Author: Garrett, Shuhao, Nicholas
 </h3>
 
 <h3 align="center">
