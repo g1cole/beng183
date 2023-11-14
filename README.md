@@ -3,7 +3,7 @@ RNA-Sequencing Alignment
 </h1>
 
 <h3 align="center">
-Author: Garrett
+Author: Garrett Cole
 </h3>
 
 <h3 align="center">
